@@ -178,3 +178,5 @@ for t in doc.tables:
                 para.paragraph_format.line_spacing = 1.0
 
 doc.save(OUT)
+
+# trigger final build
